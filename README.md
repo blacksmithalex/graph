@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-zMukICnMEZmSf8zvXd"
 </div>
 
 # Алгоритмы на графах:
@@ -10,3 +10,5 @@
 - dfs4.py поиск цикла в ОРИЕНТИРОВАННОМ графе, используя dfs. Для неориентированных графов алгоритм не подходит.
 - dfs5.py топологическая сортироввка. Для ориентированных графов без циклов.
 - dfs6.py определение мостов. Граф неориентированный.
+
+
