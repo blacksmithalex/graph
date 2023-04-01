@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-zMukICnMEZmSf8zvXd"
-</div>
-
 # Алгоритмы на графах:
 
 - dfs1.py классический алгоритм dfs, граф задан через матрицу смежности W, дополнительно в коде собираются номера вершины, из которых произошел переход в список prev. Подходит для ориентированных и неориентированных графов.
